@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Ghost and the Darkness",
+      "releaseYear": "1996d"
+    },
+    {
+      "releaseYear": "2009d",
+      "name": "A Christmas Carol",
+      "id": 2
+    },
+    {
+      "id": 11,
+      "name": "Walk the Line",
+      "releaseYear": 2005
+    },
+    {
+      "id": 12,
+      "name": "Catch Me If You Can",
+      "releaseYear": 2002
+    },
+    {
+      "id": 13,
+      "name": "Gorillas in the Mist",
+      "releaseYear": 1988
+    },
+    {
+      "id": 14,
+      "name": "Girl, Interrupted",
+      "releaseYear": 1999
+    },
+    {
+      "id": 15,
+      "name": "What's Love Got to Do with It",
+      "releaseYear": 1993
+    },
+    {
+      "id": 18,
+      "name": "The Impossible ",
+      "releaseYear": 2012
+    },
+    {
+      "id": 19,
+      "name": "Coal Miner's Daughter",
+      "releaseYear": 1980
+    },
+    {
+      "id": 20,
+      "name": "Invincible",
+      "releaseYear": 2006
+    },
+    {
+      "id": 21,
+      "name": "The Boy in the Plastic Bubble",
+      "releaseYear": 1976
+    },
+    {
+      "id": 22,
+      "name": "The Amityville Horror",
+      "releaseYear": 1979
+    },
+    {
+      "name": "chau",
+      "releaseYear": 2021,
+      "id": 23
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "This film is awesome",
+      "movieId": 1
+    },
+    {
+      "id": 2,
+      "body": "I like this film",
+      "movieId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
